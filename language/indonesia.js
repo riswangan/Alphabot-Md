@@ -807,8 +807,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !menfess
 │○ !anonymous 
 │○ !start
-│○ !skip [daerah]
-╰❒ !stop [surah|ayat]
+│○ !skip
+╰❒ !stop
 
 
 ╭─❒ 「 Database 」 
@@ -1715,6 +1715,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ NurulBocil
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
